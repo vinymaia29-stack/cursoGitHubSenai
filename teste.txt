@@ -1,0 +1,2 @@
+Testando o git com arquivo criado apartir do touch teste.txt
+criando outra linha 
