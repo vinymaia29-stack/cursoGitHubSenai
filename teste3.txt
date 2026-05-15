@@ -1,2 +1,3 @@
 Exemplo 3
-testando conexao local com github
+testando conexao local com GitHub
+atualizando arquivo no GitHub para teste
